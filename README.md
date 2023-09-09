@@ -10,4 +10,4 @@
 
 
 
-![](golden.gif)
+![](goldens.gif)
